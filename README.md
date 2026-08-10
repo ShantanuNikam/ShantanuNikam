@@ -22,13 +22,13 @@ Currently expanding my hands-on expertise in Cloud-Native technologies, Infrastr
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AWS Infra Automation with Terraform](./)** | Provisioned 2-tier VPC, subnets, EC2, and S3 backends with DynamoDB state locking. | `Terraform`, `AWS`, `S3`, `DynamoDB` |
-| **[K8s Containerized Deployment](./)** | Multi-stage Docker builds & Kubernetes manifests for multi-tier app deployment. | `Docker`, `Kubernetes`, `YAML` |
-| **[Jenkins CI/CD Pipeline](./)** | End-to-end automated build, test, and release pipeline for Java application. | `Jenkins`, `Git`, `Maven`, `Linux` |
+| **[AWS Infra Automation with Terraform](https://github.com/ShantanuNikam/Devops-Projects-Hands-On-All)** | Provisioned 2-tier VPC, subnets, EC2, and S3 backends with DynamoDB state locking. | `Terraform`, `AWS`, `S3`, `DynamoDB` |
+| **[K8s Containerized Deployment](https://github.com/ShantanuNikam/Devops-Projects-Hands-On-All)** | Multi-stage Docker builds & Kubernetes manifests for multi-tier app deployment. | `Docker`, `Kubernetes`, `YAML` |
+| **[Jenkins CI/CD Pipeline](https://github.com/ShantanuNikam/Devops-Projects-Hands-On-All)** | End-to-end automated build, test, and release pipeline for Java application. | `Jenkins`, `Git`, `Maven`, `Linux` |
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/shantanu-nikam](https://www.linkedin.com/in/shantanu-nikam-58373b1a1)
+- 💼 **LinkedIn:** [linkedin.com/in/shantanu-nikam](https://www.linkedin.com/in/shantanunikam)
 - 📧 **Email:** shantanu.nikam20@gmail.com
